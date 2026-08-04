@@ -230,6 +230,15 @@ _Hint: Each recipe contains only the most basic 'ingredients', without which the
 
 <img src="https://github.com/user-attachments/assets/723764e1-f130-4a73-aafb-21f94b1d67fc" width="100" />
 
+**Diagonal Seamless Striped Flower Transition - by tomsterBG**
+- `transition_type`: Clock
+- `grid_size`: (5.0, 5.0)
+- `local_x_mirror`: true
+- `local_y_mirror`: true
+- `flip_frequency`: (2, 2)
+- `sectors`: 16
+- `progress_bias`: (-2.5, 2.5)
+
 **Hourglass Wipe Transition - by tomsterBG**
 - `transition_type`: Clock
 - `position`: (0.5, 0.5)
